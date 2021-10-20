@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\FunctionsWithArrays\SumOfArrayElements\bin\Debug\netcoreapp3.1\SumOfArrayElements.exe
+C:\Users\opilane\source\repos\FunctionsWithArrays\SumOfArrayElements\bin\Debug\netcoreapp3.1\SumOfArrayElements.deps.json
+C:\Users\opilane\source\repos\FunctionsWithArrays\SumOfArrayElements\bin\Debug\netcoreapp3.1\SumOfArrayElements.runtimeconfig.json
+C:\Users\opilane\source\repos\FunctionsWithArrays\SumOfArrayElements\bin\Debug\netcoreapp3.1\SumOfArrayElements.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\FunctionsWithArrays\SumOfArrayElements\bin\Debug\netcoreapp3.1\SumOfArrayElements.dll
+C:\Users\opilane\source\repos\FunctionsWithArrays\SumOfArrayElements\bin\Debug\netcoreapp3.1\SumOfArrayElements.pdb
+C:\Users\opilane\source\repos\FunctionsWithArrays\SumOfArrayElements\obj\Debug\netcoreapp3.1\SumOfArrayElements.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\FunctionsWithArrays\SumOfArrayElements\obj\Debug\netcoreapp3.1\SumOfArrayElements.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\FunctionsWithArrays\SumOfArrayElements\obj\Debug\netcoreapp3.1\SumOfArrayElements.AssemblyInfo.cs
+C:\Users\opilane\source\repos\FunctionsWithArrays\SumOfArrayElements\obj\Debug\netcoreapp3.1\SumOfArrayElements.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\FunctionsWithArrays\SumOfArrayElements\obj\Debug\netcoreapp3.1\SumOfArrayElements.dll
+C:\Users\opilane\source\repos\FunctionsWithArrays\SumOfArrayElements\obj\Debug\netcoreapp3.1\SumOfArrayElements.pdb
+C:\Users\opilane\source\repos\FunctionsWithArrays\SumOfArrayElements\obj\Debug\netcoreapp3.1\SumOfArrayElements.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\FunctionsWithArrays\FunctionsWithArrays\bin\Debug\netcoreapp3.1\FunctionsWithArrays.exe
+C:\Users\opilane\source\repos\FunctionsWithArrays\FunctionsWithArrays\bin\Debug\netcoreapp3.1\FunctionsWithArrays.deps.json
+C:\Users\opilane\source\repos\FunctionsWithArrays\FunctionsWithArrays\bin\Debug\netcoreapp3.1\FunctionsWithArrays.runtimeconfig.json
+C:\Users\opilane\source\repos\FunctionsWithArrays\FunctionsWithArrays\bin\Debug\netcoreapp3.1\FunctionsWithArrays.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\FunctionsWithArrays\FunctionsWithArrays\bin\Debug\netcoreapp3.1\FunctionsWithArrays.dll
+C:\Users\opilane\source\repos\FunctionsWithArrays\FunctionsWithArrays\bin\Debug\netcoreapp3.1\FunctionsWithArrays.pdb
+C:\Users\opilane\source\repos\FunctionsWithArrays\FunctionsWithArrays\obj\Debug\netcoreapp3.1\FunctionsWithArrays.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\FunctionsWithArrays\FunctionsWithArrays\obj\Debug\netcoreapp3.1\FunctionsWithArrays.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\FunctionsWithArrays\FunctionsWithArrays\obj\Debug\netcoreapp3.1\FunctionsWithArrays.AssemblyInfo.cs
+C:\Users\opilane\source\repos\FunctionsWithArrays\FunctionsWithArrays\obj\Debug\netcoreapp3.1\FunctionsWithArrays.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\FunctionsWithArrays\FunctionsWithArrays\obj\Debug\netcoreapp3.1\FunctionsWithArrays.dll
+C:\Users\opilane\source\repos\FunctionsWithArrays\FunctionsWithArrays\obj\Debug\netcoreapp3.1\FunctionsWithArrays.pdb
+C:\Users\opilane\source\repos\FunctionsWithArrays\FunctionsWithArrays\obj\Debug\netcoreapp3.1\FunctionsWithArrays.genruntimeconfig.cache
