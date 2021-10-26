@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opilane\\source\\repos\\FunctionsWithArrays\\FunctionsReturn\\FunctionsReturn.csproj": {}
+    "C:\\Users\\opilane\\source\\repos\\TITpe21\\FunctionsWithArrays\\FunctionsReturn\\FunctionsReturn.csproj": {}
   },
   "projects": {
-    "C:\\Users\\opilane\\source\\repos\\FunctionsWithArrays\\FunctionsReturn\\FunctionsReturn.csproj": {
+    "C:\\Users\\opilane\\source\\repos\\TITpe21\\FunctionsWithArrays\\FunctionsReturn\\FunctionsReturn.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\FunctionsWithArrays\\FunctionsReturn\\FunctionsReturn.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\TITpe21\\FunctionsWithArrays\\FunctionsReturn\\FunctionsReturn.csproj",
         "projectName": "FunctionsReturn",
-        "projectPath": "C:\\Users\\opilane\\source\\repos\\FunctionsWithArrays\\FunctionsReturn\\FunctionsReturn.csproj",
+        "projectPath": "C:\\Users\\opilane\\source\\repos\\TITpe21\\FunctionsWithArrays\\FunctionsReturn\\FunctionsReturn.csproj",
         "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\source\\repos\\FunctionsWithArrays\\FunctionsReturn\\obj\\",
+        "outputPath": "C:\\Users\\opilane\\source\\repos\\TITpe21\\FunctionsWithArrays\\FunctionsReturn\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

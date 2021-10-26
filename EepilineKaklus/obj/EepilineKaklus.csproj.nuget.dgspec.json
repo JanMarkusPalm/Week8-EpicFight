@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opilane\\source\\repos\\FunctionsWithArrays\\EepilineKaklus\\EepilineKaklus.csproj": {}
+    "C:\\Users\\opilane\\source\\repos\\TITpe21\\FunctionsWithArrays\\EepilineKaklus\\EepilineKaklus.csproj": {}
   },
   "projects": {
-    "C:\\Users\\opilane\\source\\repos\\FunctionsWithArrays\\EepilineKaklus\\EepilineKaklus.csproj": {
+    "C:\\Users\\opilane\\source\\repos\\TITpe21\\FunctionsWithArrays\\EepilineKaklus\\EepilineKaklus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\FunctionsWithArrays\\EepilineKaklus\\EepilineKaklus.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\TITpe21\\FunctionsWithArrays\\EepilineKaklus\\EepilineKaklus.csproj",
         "projectName": "EepilineKaklus",
-        "projectPath": "C:\\Users\\opilane\\source\\repos\\FunctionsWithArrays\\EepilineKaklus\\EepilineKaklus.csproj",
+        "projectPath": "C:\\Users\\opilane\\source\\repos\\TITpe21\\FunctionsWithArrays\\EepilineKaklus\\EepilineKaklus.csproj",
         "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\source\\repos\\FunctionsWithArrays\\EepilineKaklus\\obj\\",
+        "outputPath": "C:\\Users\\opilane\\source\\repos\\TITpe21\\FunctionsWithArrays\\EepilineKaklus\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

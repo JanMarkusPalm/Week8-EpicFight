@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\FunctionsWithArrays\\SumOfArrayElements\\SumOfArrayElements.csproj",
+      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\TITpe21\\FunctionsWithArrays\\SumOfArrayElements\\SumOfArrayElements.csproj",
       "projectName": "SumOfArrayElements",
-      "projectPath": "C:\\Users\\opilane\\source\\repos\\FunctionsWithArrays\\SumOfArrayElements\\SumOfArrayElements.csproj",
+      "projectPath": "C:\\Users\\opilane\\source\\repos\\TITpe21\\FunctionsWithArrays\\SumOfArrayElements\\SumOfArrayElements.csproj",
       "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\opilane\\source\\repos\\FunctionsWithArrays\\SumOfArrayElements\\obj\\",
+      "outputPath": "C:\\Users\\opilane\\source\\repos\\TITpe21\\FunctionsWithArrays\\SumOfArrayElements\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
